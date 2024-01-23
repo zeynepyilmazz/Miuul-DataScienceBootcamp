@@ -1,5 +1,5 @@
 ## Miuul-DataScienceBootcamp
-Gerçek iş hayatı projeleriyle yapılandırılmış olan Data Science Bootcamp programında geliştirmiş olduğum projeleri paylaştığım repodur. 
+Katıldığım Data Science Bootcamp programında geliştirmiş olduğum projeleri paylaştığım repodur. 
  - Veri Bilimi için Python Programlama I
  - Veri Bilimi için Python Programlama II
  - CRM Analitiği
